@@ -1,85 +1,85 @@
-div.UP {
+.UP {
   background: black;
   width: auto;
   height: 50px;
   display: flex;
   justify-content: space-between;
 }
-div.Header {
+.Header {
   background: #43464B;
   width: auto;
   height: 75px;
   display: flex;
   justify-content: center;
 }
-div.Kontakti {
+.Kontakti {
   color: aliceblue;
   padding-left: 50px;
   padding-top: 15px;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-h1.Nazvanie {
+.Nazvanie {
   color: aliceblue;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-a.Atom {
+.Atom {
   color: green;
   padding-right: 50px;
   padding-top: 15px;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-a.Atom2 {
+.Atom2 {
   color: aliceblue;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-div.Fon {
+.Fon {
   background: #A9A9A9;
   width: auto;
   height: 550px;
 }
-div.Promejutok {
+.Promejutok {
   background: gray;
   width: auto;
   height: 300px;
   display: flex;
   justify-content: space-between;
 }
-div.Fon2 {
+.Fon2 {
   background: #A9A9A9;
   width: auto;
   height: 200px;
 }
-div.Promejutok2 {
+.Promejutok2 {
   background: gray;
   width: auto;
   height: 300px;
   display: flex;
   justify-content: space-between;
 }
-div.Fon3 {
+.Fon3 {
   background: #A9A9A9;
   width: auto;
   height: 200px;
 }
-div.Promejutok3 {
+.Promejutok3 {
   background: gray;
   width: auto;
   height: 300px;
   display: flex;
   justify-content: space-between;
 }
-div.Outro {
+.Outro {
   background: black;
   width: auto;
   height: 50px;
   display: flex;
   justify-content: space-between;
   }
-h2.Kodi {
+.Kodi {
   margin: 0 auto;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
@@ -87,19 +87,19 @@ h2.Kodi {
   text-align: center;
   padding-top: 50px;
 }
-li.Kod {
+.Kod {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
   color: aliceblue;
   text-align: center;
 }
-img.Image1 {
+.Image1 {
   width: 500px;
   height: 250px;
   padding-right: 50px;
   padding-top: 25px;
 }
-div.TxtImage1 {
+.TxtImage1 {
   color: aliceblue;
   padding-left: 50px;
   padding-top: 50px;
@@ -109,7 +109,7 @@ div.TxtImage1 {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-h2.Robot {
+.Robot {
   margin: 0 auto;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
@@ -117,19 +117,19 @@ h2.Robot {
   text-align: center;
   padding-top: 50px;
 }
-p.RoboTxt {
+.RoboTxt {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
   color: aliceblue;
   padding-left: 20px;
 }
-img.Image2 {
+.Image2 {
     width: 450px;
     height: 250px;
     padding-left: 50px;
     padding-top: 25px;
 }
-div.Txt2Image1 {
+.Txt2Image1 {
     color: aliceblue;
     padding-right: 200px;
     padding-top: 50px;
@@ -139,7 +139,7 @@ div.Txt2Image1 {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-h3.Secret {
+.Secret {
   margin: 0 auto;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
@@ -147,13 +147,13 @@ h3.Secret {
   text-align: center;
   padding-top: 50px;
 }
-p.SecretTxt {
+.SecretTxt {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
   color: aliceblue;
   padding-left: 20px;
 }
-div.Txt3Image1 {
+.Txt3Image1 {
     color: aliceblue;
     padding-left: 50px;
     padding-top: 50px;
@@ -163,13 +163,13 @@ div.Txt3Image1 {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-img.Image3 {
+.Image3 {
   width: 400px;
   height: 250px;
   padding-right: 50px;
   padding-top: 25px;
 }
-div.F1 {
+.F1 {
   color: aliceblue;
   display: flex;
   justify-content: flex-start;
@@ -178,7 +178,7 @@ div.F1 {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
 }
-div.Student {
+.Student {
   color: aliceblue;
   padding-right: 50px;
   padding-top: 15px;
