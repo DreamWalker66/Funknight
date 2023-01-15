@@ -16,18 +16,25 @@ div.Kontakti {
   color: aliceblue;
   padding-left: 50px;
   padding-top: 15px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
+}
+p.settings {
+  color: aliceblue;
+  font-family: "Oswald";
+  font-weight: bold;
+  padding-left: 50px;
+  padding-top: 10px;
 }
 h1.Nazvanie {
   color: aliceblue;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   padding-left: 50px;
 }
 a.ChillyRoom {
   color: aliceblue;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   padding-right: 50px;
   padding-top: 30px;
@@ -36,12 +43,12 @@ a.Atom {
   color: #99ff99;
   padding-right: 50px;
   padding-top: 15px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
 a.Atom2 {
   color: aliceblue;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
 div.Fon {
@@ -89,14 +96,14 @@ div.Outro {
   }
 h2.Kodi {
   margin: 0 auto;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   color: aliceblue;
   text-align: center;
   padding-top: 50px;
 }
 li.Kod {
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   color: aliceblue;
   text-align: center;
@@ -114,19 +121,19 @@ div.TxtImage1 {
 }
 .TxtImage1, .TxtImage2, .TxtImage3 {
   color: aliceblue;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
 h2.Robot {
   margin: 0 auto;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   color: aliceblue;
   text-align: center;
   padding-top: 50px;
 }
 p.RoboTxt {
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   color: aliceblue;
   padding-left: 20px;
@@ -144,19 +151,19 @@ div.Txt2Image1 {
 }
 .Txt2Image1, .Txt2Image2, .Txt2Image3, .Txt2Image4, .Txt2Image5, .Txt2Image5, .Txt2Image6 {
   color: aliceblue;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
 h3.Secret {
   margin: 0 auto;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   color: aliceblue;
   text-align: center;
   padding-top: 50px;
 }
 p.SecretTxt {
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
   color: aliceblue;
   padding-left: 20px;
@@ -168,7 +175,7 @@ div.Txt3Image1 {
 }
 .Txt3Image1, .Txt3Image2, .Txt3Image3 {
   color: aliceblue;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
 img.Image3 {
@@ -183,13 +190,13 @@ div.F1 {
   justify-content: flex-start;
   padding-left: 50px;
   padding-top: 15px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
 div.Student {
   color: aliceblue;
   padding-right: 50px;
   padding-top: 15px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald";
   font-weight: bold;
 }
